@@ -22,6 +22,7 @@ function renderHome() {
     var menu = document.getElementById('menu');
     var rows = document.getElementById('rows');
     var preview = document.getElementById('preview');
+    var previewImg = document.getElementById('preview-img');
 
     albums.forEach(function (al) {
       var a = document.createElement('a');
@@ -43,7 +44,7 @@ function renderHome() {
     });
 
     function showPreview(al) {
-      preview.style.backgroundImage = 'url("' + coverPath(al) + '")';
+      previewImg.src = coverPath(al);
       preview.href = albumHref(al);
       preview.setAttribute('aria-label', 'Open album: ' + al.title);
       preview.classList.add('is-on');
