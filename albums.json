@@ -1,0 +1,87 @@
+[
+  {
+    "slug": "terra",
+    "title": "Terra",
+    "description": "Winter fields, 35mm.",
+    "folder": "album-1",
+    "cover": "photo-1.jpg",
+    "photos": [
+      "photo-1.jpg",
+      "photo-2.jpg",
+      "photo-3.jpg",
+      "cover.jpg"
+    ]
+  },
+  {
+    "slug": "nocturne",
+    "title": "Nocturne",
+    "description": "After midnight, long exposures.",
+    "folder": "album-2",
+    "cover": "cover.jpg",
+    "photos": [
+      "cover.jpg",
+      "photo-1.jpg",
+      "photo-2.jpg"
+    ]
+  },
+  {
+    "slug": "salt",
+    "title": "Salt",
+    "description": "Coastline in flat light.",
+    "folder": "album-1",
+    "cover": "cover.jpg",
+    "photos": [
+      "cover.jpg",
+      "photo-2.jpg",
+      "photo-3.jpg"
+    ]
+  },
+  {
+    "slug": "meridian",
+    "title": "Meridian",
+    "description": "Notes from a slow drive north.",
+    "folder": "album-1",
+    "cover": "photo-2.jpg",
+    "photos": [
+      "photo-2.jpg",
+      "photo-3.jpg",
+      "photo-1.jpg"
+    ]
+  },
+  {
+    "slug": "concrete",
+    "title": "Concrete",
+    "description": "City edges, mid-afternoon.",
+    "folder": "album-2",
+    "cover": "photo-1.jpg",
+    "photos": [
+      "photo-1.jpg",
+      "photo-2.jpg",
+      "cover.jpg"
+    ]
+  },
+  {
+    "slug": "low-tide",
+    "title": "Low Tide",
+    "description": "Two hours before the water came back.",
+    "folder": "album-1",
+    "cover": "photo-3.jpg",
+    "photos": [
+      "photo-3.jpg",
+      "photo-1.jpg",
+      "photo-2.jpg"
+    ]
+  },
+  {
+    "slug": "vantage",
+    "title": "Vantage",
+    "description": "Rooftops and borrowed views.",
+    "folder": "album-2",
+    "cover": "photo-2.jpg",
+    "photos": [
+      "photo-2.jpg",
+      "cover.jpg",
+      "photo-1.jpg"
+    ]
+  }
+]
