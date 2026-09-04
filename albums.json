@@ -1,87 +1,86 @@
 [
   {
-    "slug": "german-elections",
-    "title": "german elections",
-    "description": "Winter fields, 35mm.",
-    "folder": "album-1",
-    "cover": "photo-1.jpg",
+    "slug": "japan",
+    "title": "Japan",
+    "description": "somewhere just outside of earth",
+    "folder": "japan",
+    "cover": "japan-01.jpg",
     "photos": [
-      "photo-1.jpg",
-      "photo-2.jpg",
-      "photo-3.jpg",
-      "cover.jpg"
+      "japan-01.jpg",
+      "japan-02.jpg",
+      "japan-03.jpg",
+      "japan-04.jpg",
+      "japan-05.jpg",
+      "japan-06.jpg",
+      "japan-07.jpg",
+      "japan-08.jpg",
+      "japan-09.jpg",
+      "japan-10.jpg",
+      "japan-11.jpg",
+      "japan-12.jpg",
+      "japan-13.jpg",
+      "japan-14.jpg",
+      "japan-15.jpg",
+      "japan-16.jpg",
+      "japan-17.jpg",
+      "japan-18.jpg",
+      "japan-19.jpg",
+      "japan-20.jpg",
+      "japan-21.jpg",
+      "japan-22.jpg",
+      "japan-23.jpg",
+      "japan-24.jpg",
+      "japan-25.jpg",
+      "japan-26.jpg",
+      "japan-27.jpg"
     ]
   },
   {
-    "slug": "nocturne",
-    "title": "Nocturne",
-    "description": "After midnight, long exposures.",
-    "folder": "album-2",
-    "cover": "cover.jpg",
+    "slug": "berlin-new-year",
+    "title": "Berlin New Year",
+    "description": "chaos, and the joy inside it",
+    "folder": "berlin-new-year",
+    "cover": "berlin-new-year-01.jpg",
     "photos": [
-      "cover.jpg",
-      "photo-1.jpg",
-      "photo-2.jpg"
+      "berlin-new-year-01.jpg",
+      "berlin-new-year-02.jpg",
+      "berlin-new-year-03.jpg",
+      "berlin-new-year-04.jpg",
+      "berlin-new-year-05.jpg",
+      "berlin-new-year-06.jpg",
+      "berlin-new-year-07.jpg",
+      "berlin-new-year-08.jpg",
+      "berlin-new-year-09.jpg",
+      "berlin-new-year-10.jpg"
     ]
   },
   {
-    "slug": "salt",
-    "title": "Salt",
-    "description": "Coastline in flat light.",
-    "folder": "album-1",
-    "cover": "cover.jpg",
+    "slug": "berlin-elections",
+    "title": "Berlin Elections",
+    "description": "a campaign season, and the city it gives away",
+    "folder": "berlin-elections",
+    "cover": "berlin-elections-1920-01.jpg",
     "photos": [
-      "cover.jpg",
-      "photo-2.jpg",
-      "photo-3.jpg"
-    ]
-  },
-  {
-    "slug": "meridian",
-    "title": "Meridian",
-    "description": "Notes from a slow drive north.",
-    "folder": "album-1",
-    "cover": "photo-2.jpg",
-    "photos": [
-      "photo-2.jpg",
-      "photo-3.jpg",
-      "photo-1.jpg"
-    ]
-  },
-  {
-    "slug": "concrete",
-    "title": "Concrete",
-    "description": "City edges, mid-afternoon.",
-    "folder": "album-2",
-    "cover": "photo-1.jpg",
-    "photos": [
-      "photo-1.jpg",
-      "photo-2.jpg",
-      "cover.jpg"
-    ]
-  },
-  {
-    "slug": "low-tide",
-    "title": "Low Tide",
-    "description": "Two hours before the water came back.",
-    "folder": "album-1",
-    "cover": "photo-3.jpg",
-    "photos": [
-      "photo-3.jpg",
-      "photo-1.jpg",
-      "photo-2.jpg"
-    ]
-  },
-  {
-    "slug": "vantage",
-    "title": "Vantage",
-    "description": "Rooftops and borrowed views.",
-    "folder": "album-2",
-    "cover": "photo-2.jpg",
-    "photos": [
-      "photo-2.jpg",
-      "cover.jpg",
-      "photo-1.jpg"
+      "berlin-elections-1920-01.jpg",
+      "berlin-elections-1920-02.jpg",
+      "berlin-elections-1920-03.jpg",
+      "berlin-elections-1920-04.jpg",
+      "berlin-elections-1920-05.jpg",
+      "berlin-elections-1920-06.jpg",
+      "berlin-elections-1920-07.jpg",
+      "berlin-elections-1920-08.jpg",
+      "berlin-elections-1920-09.jpg",
+      "berlin-elections-1920-10.jpg",
+      "berlin-elections-1920-11.jpg",
+      "berlin-elections-1920-12.jpg",
+      "berlin-elections-1920-13.jpg",
+      "berlin-elections-1920-14.jpg",
+      "berlin-elections-1920-15.jpg",
+      "berlin-elections-1920-16.jpg",
+      "berlin-elections-1920-17.jpg",
+      "berlin-elections-1920-18.jpg",
+      "berlin-elections-1920-19.jpg",
+      "berlin-elections-1920-20.jpg"
     ]
   }
 ]
